@@ -1,6 +1,6 @@
 # Machine Learning Learning Projects Repository
 
-This is my Machine Learning learning projects repository! This repository contains a collection of Node.js projects I worked on during my learning journey. Each project is a separate folder in this repository, and you can explore them to see what I've learned and accomplished.
+This is my Machine Learning learning projects repository! This repository contains a collection of Machine Learning projects I worked on during my learning journey. Each project is a separate folder in this repository, and you can explore them to see what I've learned and accomplished.
 
 ## Projects 1
 ### Predictive Modeling for Ames Housing Prices
