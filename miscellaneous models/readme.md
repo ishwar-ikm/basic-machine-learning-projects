@@ -1,0 +1,1 @@
+# This project folder explores various machine learning models and compares them on their performance
